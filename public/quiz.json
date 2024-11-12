@@ -1,0 +1,66 @@
+{
+    "quizTitle": "General Knowledge Quiz",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is the capital of France?",
+        "choices": ["Berlin", "Madrid", "Paris", "Lisbon"],
+        "answer": "Paris"
+      },
+      {
+        "id": 2,
+        "question": "Who wrote 'To Kill a Mockingbird'?",
+        "choices": ["Harper Lee", "Mark Twain", "F. Scott Fitzgerald", "Ernest Hemingway"],
+        "answer": "Harper Lee"
+      },
+      {
+        "id": 3,
+        "question": "What is the largest planet in our solar system?",
+        "choices": ["Earth", "Saturn", "Jupiter", "Mars"],
+        "answer": "Jupiter"
+      },
+      {
+        "id": 4,
+        "question": "What is the chemical symbol for water?",
+        "choices": ["CO2", "O2", "H2O", "NaCl"],
+        "answer": "H2O"
+      },
+      {
+        "id": 5,
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "choices": ["China", "Japan", "Thailand", "India"],
+        "answer": "Japan"
+      },
+      {
+        "id": 6,
+        "question": "Who painted the Mona Lisa?",
+        "choices": ["Vincent van Gogh", "Claude Monet", "Leonardo da Vinci", "Pablo Picasso"],
+        "answer": "Leonardo da Vinci"
+      },
+      {
+        "id": 7,
+        "question": "What is the square root of 64?",
+        "choices": ["6", "8", "10", "12"],
+        "answer": "8"
+      },
+      {
+        "id": 8,
+        "question": "In what year did the Titanic sink?",
+        "choices": ["1912", "1920", "1898", "1905"],
+        "answer": "1912"
+      },
+      {
+        "id": 9,
+        "question": "Who is known as the Father of Computers?",
+        "choices": ["Alan Turing", "Charles Babbage", "Thomas Edison", "Nikola Tesla"],
+        "answer": "Charles Babbage"
+      },
+      {
+        "id": 10,
+        "question": "What is the hardest natural substance on Earth?",
+        "choices": ["Gold", "Iron", "Diamond", "Silver"],
+        "answer": "Diamond"
+      }
+    ]
+  }
+  
